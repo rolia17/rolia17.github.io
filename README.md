@@ -6,4 +6,3 @@
 - [vk](http://www.vk.com/remindme)
 
 #####Or, if you are not a spamer, [email me](mailto:d.rolevich@gmail.com) !
-
