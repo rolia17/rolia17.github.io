@@ -1,3 +1,22 @@
 body {
-	background: #B21212;
+	background: #425067;
+	color: #B2E0C6;
+	font-family: 'PT Sans', sans-serif;
+}
+h1 {
+	font-weight: 700;
+}
+a, a:visited, a:hover, a:active {
+	color: #F0F0F0;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+ul.social, ul.social li {
+	display: inline-block;
+}
+ul.social li {
+	padding: 0 10px 0 0;
+	font-size: 3em;
 }
