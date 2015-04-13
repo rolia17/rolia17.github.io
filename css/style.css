@@ -10,7 +10,7 @@ a, a:visited, a:active {
 	color: #F0F0F0;
 	text-decoration: underline;
 	transition-property: color;
-	transition-duration: 1s;
+	transition-duration: 300ms;
 }
 a:hover {
 	text-decoration: none;
