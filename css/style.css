@@ -9,7 +9,8 @@ h1 {
 a, a:visited, a:active {
 	color: #F0F0F0;
 	text-decoration: underline;
-	transition: color;
+	transition-property: color;
+	transition-duration: 1s;
 }
 a:hover {
 	text-decoration: none;
