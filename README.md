@@ -1,4 +1,4 @@
-##My GitHub blog on Bootstrap and Jekyll.
+##My personal page
 
 #####You can find me in social media:
 - [soundcloud](http://www.soundcloud.com/remindmemind)
